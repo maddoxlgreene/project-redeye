@@ -12,7 +12,7 @@ It helps you:
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/maddoxlgreene/project-redeye.git
+git clone https://github.com/yourusername/project-redeye.git
 cd project-redeye
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
